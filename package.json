@@ -26,7 +26,7 @@
     "dependencies": {
         "bootstrap-material-design": "^4.1.1",
         "jquery-confirm": "^3.3.4",
-        "node-sass": "^4.12.0",
+        "node-sass": "^7.0.0",
         "web3": "^1.2.1"
     }
 }
